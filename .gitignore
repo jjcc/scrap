@@ -1,0 +1,8 @@
+.venv*
+.pytest_cashe/
+*__pycache__
+img/
+output/
+.env
+data/
+input/
